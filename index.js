@@ -8,7 +8,9 @@ const Models = require("./model/Schemma")
 const RoutesApp = require("./routes/Routes");
 const Product_Json = require("./product.json")
 // app.use(body_parser.json());
-
+const port = process.env.PORT || 5000
+const cors = require("cors");
+app.use(cors())
 const mongoose = require("mongoose");
 
 //connection Function
@@ -125,7 +127,7 @@ app.use(express.json())
 //     }
 // })
 
-app.listen(5000,()=>{
+app.listen(port,()=>{
     console.log(`server is Running at 5000`)
 })
 

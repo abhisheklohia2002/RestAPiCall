@@ -1,0 +1,88 @@
+[{
+    "name":"Iphone9",
+    "price":50,
+    "feature":"true",
+
+   "value":"Apple"
+    ,
+    "Image":"https://cdn.pixabay.com/photo/2016/12/01/18/17/mobile-phone-1875813_1280.jpg"
+
+}
+,
+{
+    "name":"Realme ZOok",
+    "price":100,
+    "feature":"true",
+   "value":"Sumsang"
+}
+
+,
+{
+    "name":"Realme Maze",
+    "price":400,
+    "feature":"true",
+   "value":"Sumsang"
+
+   
+    
+},
+{
+    "name":"Asus Rog 65",
+    "price":120,
+    "feature":"true",
+   "value":"Asus"
+,
+"Image":"https://cdn.pixabay.com/photo/2016/12/01/18/17/mobile-phone-1875813_1280.jpg"
+
+   
+    
+},
+{
+    "name":"Asus Rog phone7",
+    "price":150,
+    "feature":"true",
+   "value":"Asus",
+   "Image":""
+
+
+   
+    
+},
+{
+    "name":"Asus Rog ZenPhone",
+    "price":180,
+    "feature":"true",
+   "value":"Asus"
+,
+"Image":"https://cdn.pixabay.com/photo/2016/12/01/18/17/mobile-phone-1875813_1280.jpg"
+
+   
+    
+}
+
+
+,
+{
+    "name":"Lenovo K6 Power25",
+    "price":140,
+    "feature":"true",
+   "value":"Asus",
+   "Image":"https://cdn.pixabay.com/photo/2016/12/19/08/39/mobile-phone-1917737_1280.jpg"
+
+
+   
+    
+},
+{
+    "name":"Lenovo Note 10 ",
+    "price":190,
+    "feature":"true",
+   "value":"Asus",
+   "Image":"https://cdn.pixabay.com/photo/2016/12/09/11/33/smartphone-1894723_960_720.jpg"
+
+
+   
+    
+}
+
+]
